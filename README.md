@@ -1,5 +1,7 @@
 # dataflow
 
+General development framework based on vue-2.6 and TypeScript-4.1.5
+
 ## Project setup
 ```
 npm install
